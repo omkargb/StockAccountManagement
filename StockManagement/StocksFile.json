@@ -1,0 +1,20 @@
+{
+  "StocksList": 
+  [
+    {
+      "CompanyName": "HPCL",
+      "NumberOfShare": 30000,
+      "SharePrice": 270
+    },
+    {
+      "CompanyName": "Wipro",
+      "NumberOfShare": 10000,
+      "SharePrice": 590
+    },
+    {
+      "CompanyName": "TCS",
+      "NumberOfShare": 15000,
+      "SharePrice": 3000
+    }
+  ]
+}
